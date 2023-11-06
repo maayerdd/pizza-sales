@@ -19,7 +19,7 @@ I conducted an analysis using pizza restaurant data from 2015. The data includes
 
 ## Directory Structure
 - 📂 dashboard
-  - 📄 pizza_sales.pdf
+  - [📄 pizza_sales.pdf](./dashboard/pizza_sales.pdf)
 - 📂 data
   - 📄 pizza_sales.csv
 - 📄 README.md
